@@ -4,7 +4,7 @@ layout: 'layouts/privacy-policy.html'
 ---
 
 ## Finalidad del tratamiento
-La finalidad de la recogida y tratamiento de los datos personales, a través de los distintos formularios propiedad de Alejandro Vera Casas, puestos a disposición de los Usuarios, responden, según el caso concreto, para gestionar y atender a solicitudes de información, dudas, quejas, felicitaciones o sugerencias a las publicaciones o a cualesquiera servicios o actividades, actos o eventos prestados, ofertados, patrocinados y/o sponsorizados por Alejandro Vera Casas, así como conocer la opinión de los usuarios, y además, gestionar las solicitudes de empleo, mediante la recogida de currículums, con els fin de poder contactar con el interesado y llevar a cabo un proceso de selección.
+La finalidad de la recogida y tratamiento de los datos personales, a través de los distintos formularios propiedad de Jennifer Drago Gómez, puestos a disposición de l@s Usuari@s, responden, según el caso concreto, para gestionar y atender a solicitudes de información, dudas, quejas, felicitaciones o sugerencias a las publicaciones o a cualesquiera servicios o actividades, actos o eventos prestados, ofertados, patrocinados y/o sponsorizados por Jennifer Drago Gómez, así como conocer la opinión de los usuarios, y además, gestionar las solicitudes de empleo, mediante la recogida de currículums, con els fin de poder contactar con el interesado y llevar a cabo un proceso de selección.
 
 ## Plazo de conservación
 
@@ -16,7 +16,7 @@ Jennifer Drago Gómez está legitimada al tratamiento de datos personales, en ba
 
 ## Exactitud de los datos
 
-Por otro lado, con el fin de que los datos obrantes en nuestros ficheros, informáticos y/o en papel, siempre correspondan a la realidad, se tratará de mantener actualizados. De manera que, a estos efectos, el Usuario deberá realizar los cambios, directamente, cuando así esté habilitado o comunicándose, por medio fehaciente, al área o departamento correspondiente de Jennifer Drago Gómez.
+Por otro lado, con el fin de que los datos obrantes en nuestros ficheros, informáticos y/o en papel, siempre correspondan a la realidad, se tratará de mantener actualizados. De manera que, a estos efectos, el/la Usuari@ deberá realizar los cambios, directamente, cuando así esté habilitado o comunicándose, por medio fehaciente, al área o departamento correspondiente de Drago Psicología.
 
 ## Destinatarios
 

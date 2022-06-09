@@ -33,8 +33,7 @@ aboutMe:
 
 contact:
   title: 'Contacto'
-  summary: 'Si necesitas una psicologa, no dudes en contactar conmigo.
-  Escríbeme para cualquier duda que tengas y reservar tu cita.'
+  summary: 'Reserva cita conmigo a través del teléfono, el mail o rellenando el siguiente formulario. ¿Tienes dudas? Contacta conmigo sin ningún compromiso.'
   buttonText: 'Contáctame'
   buttonUrl: '/contacto'
 

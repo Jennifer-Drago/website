@@ -3,13 +3,14 @@ layout: 'layouts/services.html'
 title: 'Servicios'
 services:
   title: 'Servicios'
-  summary: 'Estos son los servicios que se ofrecen en Drago psicología.'
+  summary: ''
   image: '/images/bg/plant.svg'
   imageAlt: 'Plant illustration'
 
 work:
   title: '¿Cómo trabajo?'
-  summary: 'Mi método de intervención es altamente efectivo porque me baso en la especialización y he conseguido integrar en la terapia las herramientas más eficaces e innovadoras que existen en la actualidad para la resolución de los problemas de índole psicológica.'
+  summary: 'Podemos vernos tanto de manera presencial como online. Tú te conoces mucho mejor que cualquier otra persona, así que desde el primer momento trabajaremos junt@s para resolver tus problemas. Habitualmente las primeras sesiones nos sirven para conocernos y conocer en profundidad el problema o malestar que te trae a consulta. Con esa información planificaremos el tratamiento u "hoja de ruta" más adecuada para acompañarte en el camino a tu bienestar. Cada sesión tiene una duración aproximada de 50 minutos. 
+  ¿Tienes dudas? Contacta conmigo sin compromiso y resolvamos tus dudas'
   image: '/images/bg/plant_2.svg'
   imageAlt: 'Plant illustration'
   buttonText: 'Contacta conmigo'
